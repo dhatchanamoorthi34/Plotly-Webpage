@@ -27,3 +27,4 @@ Build an interactive dashboard allows each volunteer access his/her demographic 
 **[index.html](/index.html)**
 
 - Populate JavaScript and charts into html with BootStrap styling.
+
