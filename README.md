@@ -4,7 +4,7 @@ Creating a dynamic web dashboard contains various visual charts and interactive 
 
 ## Dashboard URL:
 
-<https://susiexia.github.io/Plotly_Webpage/>
+
 
 ### Project Background
 
